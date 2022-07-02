@@ -1,0 +1,5 @@
+export const ADD="add"
+export const DEL="del"
+export const ADDVAL="addval"
+export const ODDADD="oddadd"
+export const PERSONADD="personadd"

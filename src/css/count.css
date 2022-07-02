@@ -1,0 +1,9 @@
+.ant-layout-sider{
+    background-color: white;
+}
+.ant-layout-header{
+    background-color: rgb(241, 137, 137);
+}
+.ant-layout-sider-children{
+    background-color: aqua;
+}
